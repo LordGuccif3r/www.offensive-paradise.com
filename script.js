@@ -71,3 +71,11 @@ const toggleButton = document.querySelector('.dark-light');
 toggleButton.addEventListener('click', () => {
   document.body.classList.toggle('light-mode');
 });
+
+const activePage = window.location.pathname;
+const navLinks = document.querySelectorAll('nav a').
+forEach(link => {
+  if(link.href.includes(`${activePage}`)){
+    link.classList.add('active');
+  }
+})
