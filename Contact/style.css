@@ -45,7 +45,7 @@ html {
 
 body {
   font-family: var(--body-font);
-  background-image: url(./Background.jpg);
+  background-image: url(https://offensive-paradise.com/Background.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
