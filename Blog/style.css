@@ -442,9 +442,10 @@ body.light-mode .video-bg:before {
   align-items: center;
   width: 100%;
   justify-content: space-between;
-  background-image: url("https://offensive-paradise.com/Blog/featured-lg.jpg");
+  background-image: url("https://offensive-paradise.com/Blog/Blog.png");
+  background-size: 100% 100%;
   border-radius: 14px;
-  padding: 180px 40px;
+  padding: 248px 40px;
 }
 @media screen and (max-width: 415px) {
   .content-wrapper-header {
