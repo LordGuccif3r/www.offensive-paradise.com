@@ -446,7 +446,7 @@ body.light-mode .video-bg:before {
   background-repeat: no-repeat ;
   background-size: 100% 100%;
   border-radius: 14px;
-  padding: 120px 40px;
+  padding: 20px 40px;
 }
 @media screen and (max-width: 415px) {
   .content-wrapper-header {
