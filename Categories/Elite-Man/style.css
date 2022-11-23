@@ -444,7 +444,7 @@ body.light-mode .video-bg:before {
   justify-content: space-between;
   background-image: url(https://offensive-paradise.com/offensive-paradise.png);
   background-repeat: no-repeat ;
-  background-size: 100% 100%;
+  background-size: 100%;
   border-radius: 14px;
   padding: 248px 40px;
 }
