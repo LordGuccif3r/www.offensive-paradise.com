@@ -6,7 +6,7 @@ bodyblog {
 }
 @media only screen {
 	bodyblog {
-		margin: -3em auto;
+		margin: -1em auto;
 		max-width: 900px;
 		color: rgb(199 199 199);
 	}
