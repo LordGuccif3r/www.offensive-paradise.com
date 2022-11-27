@@ -426,7 +426,7 @@ body.light-mode .video-bg:before {
 .content-wrapper {
   display: flex;
   flex-direction: column;
-  color: 004e9d;
+  color: #2c0097;
   padding: 20px 40px;
   height: 100%;
   overflow: auto;
